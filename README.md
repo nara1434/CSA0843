@@ -42,13 +42,11 @@ csa0843-nara1434 created by GitHub Classroom
 40. max count of sentences
 41. max string count
 42. composite numbers
-43. organization bonous
-44. lcm and gcd
-45. frequency
-46. power,add,sub,mul,div
-47. divide of two numbers
-48. prime and composite
-49. vote eligible
-50. pattern day 5
+43. frequency
+44. power,add,sub,mul,div
+45. divide of two numbers
+46. prime and composite
+47. vote eligible
+48. pattern day 5
 
 
