@@ -1,5 +1,5 @@
-# csa0843-day-3-nara1434
-csa0843-day-3-nara1434 created by GitHub Classroom
+# csa0843-nara1434
+csa0843-dnara1434 created by GitHub Classroom
 1. ANAGRAM 
 2. AREA OF A CIRCLE 
 3. BAKERY 
