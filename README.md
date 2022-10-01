@@ -40,4 +40,15 @@ csa0843-day-3-nara1434 created by GitHub Classroom
 38. skipping numbers
 39. matrix addition
 40. max count of sentences
+41. max string count
+42. composite numbers
+43. organization bonous
+44. lcm and gcd
+45. frequency
+46. power,add,sub,mul,div
+47. divide of two numbers
+48. prime and composite
+49. vote eligible
+50. pattern day 5
+
 
