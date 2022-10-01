@@ -48,5 +48,9 @@ csa0843-nara1434 created by GitHub Classroom
 46. prime and composite
 47. vote eligible
 48. pattern day 5
-
+49. string match
+50. vowels and consonants
+51. smaller than other
+52. lcm and gcd
+53. count prime and count
 
