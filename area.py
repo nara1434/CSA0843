@@ -1,3 +1,3 @@
-a=float(input("enter the value of a:"))
-area=3.18*(a**2)
+radius=int(input("enter the radius value"))
+area=3.14*radius*radius
 print(area)
